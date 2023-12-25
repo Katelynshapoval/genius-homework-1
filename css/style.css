@@ -121,11 +121,22 @@ body {
 #why-us-section {
   color: var(--color-secondary-dark);
 }
+#why-us-section h2 {
+  text-align: center;
+}
 
 /* Fourth section */
 #our-procedures-section {
   color: var(--color-secondary-light);
   font-size: 22px;
+}
+#our-procedures-section h2 {
+  text-align: center;
+}
+
+/* Fifth section */
+#contacts-section h2 {
+  text-align: center;
 }
 
 /* Footer */
