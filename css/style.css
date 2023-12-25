@@ -94,6 +94,7 @@ body {
 }
 .button:hover {
   background-color: transparent;
+  cursor: pointer;
   border: 2px solid var(--color-primary-light);
   color: var(--color-secondary-dark);
 }
